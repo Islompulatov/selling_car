@@ -1,4 +1,3 @@
-asttokens @ file:///opt/conda/conda-bld/asttokens_1646925590279/work
 backcall @ file:///home/ktietz/src/ci/backcall_1611930011877/work
 beautifulsoup4 @ file:///C:/ci/beautifulsoup4_1650293028159/work
 Bottleneck @ file:///C:/Windows/Temp/abs_3198ca53-903d-42fd-87b4-03e6d03a8381yfwsuve8/croots/recipe/bottleneck_1657175565403/work
